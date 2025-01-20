@@ -1,4 +1,6 @@
 # RD.Com-Data-Analysis
+![Image](https://github.com/user-attachments/assets/c44d52a3-32a9-41fc-b111-f5168ff0b73e)
+
 Business Insights and Analytics Expert: Designed a Power BI dashboard
 
 # Project Summary 
